@@ -30,6 +30,8 @@ locale: "en-US"
 
 # Build settings
 markdown: kramdown
+kramdown:
+  hard_wrap: true
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
@@ -62,11 +64,11 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Stefan Radman, Ph.D."
-  avatar : "/assets/images/profile_0.jpeg"
-  bio    : "Serbian-Italian nuclear engineer wandering about Switzerland"
+  name     : "Stefan Radman, Ph.D."
+  avatar   : "/assets/images/profile_0.jpeg"
+  bio      : "Serbian-Italian nuclear engineer and scientific programmer"
   location : "Lugano, Switzerland"
-  email : "sradman@protonmail.com"
+  email    : "sradman@protonmail.com"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -80,6 +82,17 @@ author:
 
 footer:
   email : "sradman@protonmail.com"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/stefan-radman-073154b4/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/virmodoetiae"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=viEDzQUAAAAJ"
+  
 
 defaults:
   # _posts

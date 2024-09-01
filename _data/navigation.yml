@@ -1,9 +1,14 @@
 main:
+  #- title: "Home"
+  #  url: /
+  - title: "Home"
+    url: /
+  - title: "Curriculum Vitæ"
+    url: /cv/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
+  
