@@ -1,14 +1,15 @@
 ---
+title: "Stefan Radman"
+layout: splash
 permalink: /
-title: "Home"
-defaults:
-  # _pages
-  - scope:
-      path: "/"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.25"
+  overlay_image: /assets/images/home_header.png
+  caption: "Rendered with [**ShaderThing**](https://github.com/virmodoetiae/shaderthing)"
+excerpt: |
+  Nuclear engineer, Ph.D.
+  Scientific programmer
 ---
 
-This is my home page!
+Welcome to my website! Here, I share experiences worth mentioning matured through my life in Serbia, Italy and Switzerland. These range from academic and professional experiences to various side activities and personal interests.
