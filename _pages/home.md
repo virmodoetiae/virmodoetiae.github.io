@@ -12,4 +12,4 @@ excerpt: |
   Scientific programmer
 ---
 
-Welcome to my website! Here, I share experiences worth mentioning matured through my life in Serbia, Italy and Switzerland. These range from academic and professional experiences to various side activities and personal interests.
+Welcome to my website! Here, I share experiences worth mentioning matured through my life in between Southern and Central Europe, and presently Switzerland. These range from academic and professional experiences to various side activities and personal interests.
