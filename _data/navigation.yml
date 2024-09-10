@@ -7,6 +7,6 @@ main:
     url: /about/
   - title: "Publications"
     url: /publications/
-  - title: "Posts"
-    url: /posts_category/
+  - title: "Blog"
+    url: /blog/
   

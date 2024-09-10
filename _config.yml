@@ -31,12 +31,17 @@ search: false
 locale: "en-US"
 
 sass:
+  sass_dir: _sass
   style: compressed
 
 # Build settings
 markdown: kramdown
 kramdown:
+  math_engine: mathjax
   hard_wrap: true
+
+mathjax: 
+  enabled: true
 
 # Outputting
 permalink: /:categories/:title/
@@ -70,8 +75,8 @@ plugins:
 
 author:
   name     : "Stefan Radman, Ph.D."
-  avatar   : "/assets/images/profile_0.jpeg"
-  bio      : "Serbian-Italian nuclear engineer and scientific programmer"
+  avatar   : "/assets/images/profile.png"
+  bio      : "Designed in Serbia, made in Italy, enjoying Switzerland."
   location : "Lugano, Switzerland"
   email    : "sradman@protonmail.com"
   links:
@@ -128,3 +133,5 @@ tag_archive:
 
 atom_feed:
   hide: true
+
+show_reading_time: false
