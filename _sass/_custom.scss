@@ -19,8 +19,8 @@
 
 .archive__item {
   //background: #fff;
-  border: 1px solid #e0e0e0;
-  border-radius: 8px;
+  border: .125em solid #e0e0e0;
+  border-radius: .5em;
   padding: 20px;
   //box-shadow: 0 2px 5px rgb(212, 34, 34);
   transition: transform 0.3s ease;
@@ -54,7 +54,7 @@
   background: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay color (adjust as needed) */
   pointer-events: none; /* Ensure the overlay does not block interactions */
   z-index: 1; /* Make sure the overlay is above the background but below the content */
-  border-radius: inherit; 
+  border-radius: .4em; 
 }
 
 .archive__item h2,
