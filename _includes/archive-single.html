@@ -20,7 +20,7 @@
 
       <!-- Overlay Element -->
       {% if post.background_image %}
-        <div class="archive__item-overlay"></div>
+        <div class="archive__item-overlay" style="background: {{ post.background | default: 'rgba(0, 0, 0, 0.5)' }};"></div>
       {% endif %}
       
       {% if include.type == "grid" and teaser %}

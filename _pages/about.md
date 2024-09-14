@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-For a more structured and concise summary, you may refer to my **[curriculum vitæ](#curriculum-vitæ)**.
+For a more structured summary, you may refer to my **[curriculum vitæ](#curriculum-vitæ)**.
 
 My name is Stefan Radman, and I am a nuclear engineer, Ph.D., working as a simulation engineer at **[Casale](https://casale.ch/)**, a Swiss chemical engineering company in Lugano. I develop software for the simulation of a broad range of chemical plant unit operations, as well web applications back-ends, with the goal to improve the effectiveness of company operations. These activities benefit from my extensive knowledge of the C++, C# and Python programming languages.
 
@@ -84,10 +84,10 @@ A **[PDF version](/assets/docs/cv.pdf)** is available as well.
 ## Skills
 
 - **Languages**
-  English* (full working proficiency), *Italian* (native), *Serbian** (native), *French* (elementary working proficiency)
+  *English* (full working proficiency), *Italian* (native), *Serbian* (native), *French* (elementary working proficiency)
 
 - **Programming languages** (both general-purpose and domain-specific)
   C++, C#, CMake, Python, MATLAB, Fortran, GLSL, Z80 and Intel 8080 assembly
 
 - **OSs, APIs and programming libraries, software**
-  Windows, Linux environment (Ubuntu); [OpenFOAM](https://www.openfoam.com/), [OpenGL](https://www.opengl.org/) (in C++), Nvidia CUDA (in Python), some experience with High Performance Computing (on [CSCS](https://www.cscs.ch/) clusters); REST and socket-based communication protocols for web applications, MongoDB databases; Git, Gitlab CI/CD pipelines; [Serpent](https://serpent.vtt.fi/serpent/) and [FLUKA](https://www.fluka.org/) Monte Carlo codes; Visual Studio and Visual Studio Code IDEs; Microsoft Office and Libre Office suites; $$\LaTeX$$;
+  Windows OS, Linux environment (Ubuntu OS); [OpenFOAM](https://www.openfoam.com/), [OpenGL](https://www.opengl.org/) (in C++), Nvidia CUDA (in Python), some experience with High Performance Computing (on [CSCS](https://www.cscs.ch/) clusters); REST and socket-based communication protocols for web applications, MongoDB databases; Git, Gitlab CI/CD pipelines; [Serpent](https://serpent.vtt.fi/serpent/) and [FLUKA](https://www.fluka.org/) Monte Carlo codes for particle physics; Visual Studio and Visual Studio Code IDEs; Microsoft Office and Libre Office suites; $$\LaTeX$$;

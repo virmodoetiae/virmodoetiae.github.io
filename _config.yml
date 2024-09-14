@@ -74,9 +74,11 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name     : "Stefan Radman, Ph.D."
+  name     : "Stefan Radman"
   avatar   : "/assets/images/profile.png"
-  bio      : "Designed in Serbia, made in Italy, enjoying Switzerland."
+  bio      : |
+    Nuclear engineer, Ph.D.
+    Scientific programmer
   location : "Lugano, Switzerland"
   email    : "sradman@protonmail.com"
   links:
