@@ -8,6 +8,7 @@ tags:
 excerpt:
   A tool for shader programming I have been developing since 2022
 background_image: "/assets/images/post-st-thumbnail.png"
+background: 'rgba(0, 0, 0, 0.5)'
 comments: true
 share: false
 related: false
