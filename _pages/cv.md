@@ -12,7 +12,7 @@ A **[PDF version](/assets/docs/cv.pdf)** is available as well.
 
 - *Birth date, place*: 12 July 1992, Belgrade, Serbia
 - *Nationality*:       Serbian, Italian
-- *Address*:           Via al Boschetto 4, 6900 Lugano, Ticino, Switzerland
+- *Address*:           Feldstrasse 15, 5412 Gebenstorf, Aargau, Switzerland
 - *E-mail*:            sradman@protonmail.com
 
 ## Education
@@ -33,10 +33,17 @@ A **[PDF version](/assets/docs/cv.pdf)** is available as well.
 
 ## Professional Experience
 
+- **Scientist**
+  *[Paul Scherrer Institut](https://www.psi.ch/en), Villigen, Switzerland*
+  *September 2025 - Present*
+  At the Laboratory for Reactor Physics and Thermal-Hydraulics (LRT), my activities are focused on higher-
+  resolution simulation methods (neutronics and thermal-hydraulics) for Boiling Water Reactors to support
+  the operation of Swiss nuclear power plants and advance simulation methods and frameworks.
+
 - **Modeling and simulation engineer**
   *[Casale](https://casale.ch/), Lugano, Switzerland*
-  *January 2022 - Present*
-  Variety of activities within the digital engineering department: 1) development and maintenance of model-based software descriptive of proprietary Casale technology for the design of chemical plant unit operations; 2) development and maintenance of proprietary web application back-ends; 3) management and analysis of large technical data-sets.
+  *January 2022 - July 2025*
+  Variety of activities within the digital engineering department: 1) development and maintenance of model-based software descriptive of proprietary Casale technology for the design of chemical plant unit-operations; 2) development and maintenance of proprietary web application back-ends; 3) management and analysis of large technical data-sets.
 
 - **IAEA Training Course Series assistant**
   *International Atomic Energy Agency ([IAEA](https://www.iaea.org/)), Vienna, Austria*
