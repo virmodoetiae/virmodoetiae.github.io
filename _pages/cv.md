@@ -12,7 +12,7 @@ A **[PDF version](/assets/docs/cv.pdf)** is available as well.
 
 - *Birth date, place*: 12 July 1992, Belgrade, Serbia
 - *Nationality*:       Serbian, Italian
-- *Address*:           Feldstrasse 15, 5412 Gebenstorf, Aargau, Switzerland
+- *Residence*:         Switzerland
 - *E-mail*:            sradman@protonmail.com
 
 ## Education
